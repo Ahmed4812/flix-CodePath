@@ -25,7 +25,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-
+* Gif was not loading on git even after optimizing.
+* Had an error: ```Terminating app due to uncaught exception 'NSUnknownKeyException' [duplicate]``` due to having class name for `Table View` rather than controller. (`Fixed`)
 
 
 
